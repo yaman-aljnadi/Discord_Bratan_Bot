@@ -2,4 +2,5 @@ Bratan is a smart TTS (Text To Speech) Discord bot, similar to ciri or cortana i
 The bot modules was build from Reddit dataset 1.7 billion comments --> https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/ 
 The training process of the bot is taking from Sentedex --> https://pythonprogramming.net/
 
-Bratan is a modefied version that works on Discord, Bratan is cabable of 
+Bratan is a modefied version that works on Discord, Bratan is cabable of doing any normal disord bot functions such as playing youtube videos or giving roles ...etc. 
+but also has the ability to communicate with other people in chat room like cortana. 
