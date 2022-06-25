@@ -167,5 +167,4 @@ async def stop(ctx):
 
     await ctx.voice_client.disconnect()
 
-# bot.run("NzAyMjQ5NjIxNjMxNTMzMDY5.Xp9Tqg.UNpRatsF_c9l7xAXXfyx1fV-bjA")
-bot.run("ODYxNjg2Njc4MjQyNTkwNzQx.YONaQQ.Se_42GHCIEJjqshaW-1aMsMe5NQ")
+bot.run("Insert Bot Token")
