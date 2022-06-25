@@ -85,4 +85,4 @@ bot = commands.Bot(command_prefix=commands.when_mentioned_or("bot."),
 
 
 bot.add_cog(Music(bot))
-bot.run("NzAyMjQ5NjIxNjMxNTMzMDY5.Xp9Tqg.UNpRatsF_c9l7xAXXfyx1fV-bjA")
+bot.run("Insert Bot Token")
